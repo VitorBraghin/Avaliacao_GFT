@@ -1,5 +1,5 @@
 # Avaliacao_GFT
- Repositório dedicado á avaliação GFT.
+ Repositório dedicado á avaliação GFT;
 Exercicio 1;
 
 import java.util.Scanner;
