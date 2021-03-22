@@ -4,7 +4,7 @@ Exercicio 1;
 
 import java.util.Scanner;
 
-public class GFT {
+public class GFTT {
     java.util.Scanner = new Scanner (System.in);
 
 Public static void main (String[]args){
